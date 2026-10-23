@@ -1,4 +1,4 @@
-## 🛠️ Version Control & Collaboration Strategy
+## Version Control & Collaboration Strategy
 
 To ensure a smooth, collaborative development process for the **FabricGrid: TexMap** application, the team follows a structured version control and documentation strategy.
 
